@@ -1,0 +1,52 @@
+# Arduino IDE files
+*.DS_Store
+.vscode/
+.idea/
+
+# Build artifacts
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+*.map
+
+# Compiled Object files
+*.slo
+*.lo
+*.ko
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries (compiled)
+*.lib
+*.la
+
+# Shared objects (compiled)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# ESP32 specific
+build/
+sdkconfig
+sdkconfig.old
+
+# System files
+Thumbs.db
+.Trashes

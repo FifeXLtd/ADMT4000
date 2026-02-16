@@ -1,0 +1,42 @@
+#######################################
+# Syntax Coloring Map for ADMT4000
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ADMT4000	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+startConversion	KEYWORD2
+abortConversion	KEYWORD2
+readAngle	KEYWORD2
+readAbsoluteAngle	KEYWORD2
+readTurnCountAndAngle	KEYWORD2
+readTemperature	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+REG_CNVPAGE	LITERAL1
+REG_ABSANGLE	LITERAL1
+REG_DIGIO	LITERAL1
+REG_ANGLE	LITERAL1
+REG_FAULT	LITERAL1
+REG_SINE	LITERAL1
+REG_COSINE	LITERAL1
+REG_RADIUS	LITERAL1
+REG_TMP	LITERAL1
+REG_GENERAL	LITERAL1
+REG_DIGIOEN	LITERAL1
+REG_CNVCNT	LITERAL1
+CMD_READ	LITERAL1
+CMD_WRITE	LITERAL1
+CMD_CNV_START	LITERAL1
+CMD_CNV_ABORT	LITERAL1
